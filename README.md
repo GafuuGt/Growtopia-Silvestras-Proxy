@@ -3,7 +3,7 @@ Growtopia Silvestras Proxy Source
 
 # How to Download & Open
 
-Open this link: / Click on **Releases** on your own
+Open this link: https://github.com/GafuuGt/Growtopia-Silvestras-Proxy/releases/tag/GrowtopiaProxy / Click on **Releases** on your own
 
 Click on **Assets** and Double Click Autofarm.rar
 
