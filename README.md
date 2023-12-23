@@ -40,7 +40,7 @@ Added Fast Dice& Show Ping& Show Public Entrances -> /options;
 
 Added Visual Punch/Place Effect While Autofarming;
 
-/logout -> logs you out to login menu
+/logout -> logs you out to login menu.
 
 /chest -> See Chest Items.
 
