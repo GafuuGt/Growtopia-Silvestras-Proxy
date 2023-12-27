@@ -15,7 +15,7 @@ OPEN **Silvestras.EXE**
 
 WAIT FOR THE MESSAGE "INJECTED"
 
-OPEN **GROWTOPIA** AND PRESS F11 OR INS TO OPEN THE MENU.
+OPEN **GROWTOPIA** AND PRESS F11 OR INS TO OPEN THE MENU
 
 # Features
 [P] Visual Clothes & Effects Are Now Fully Visible To Other Proxy Users!
